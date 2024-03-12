@@ -1,0 +1,12 @@
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.AssemblyInfoInputs.cache
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.AssemblyInfo.cs
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.sourcelink.json
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\Account.deps.json
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\Account.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\Account.pdb
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\refint\Account.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\Account.pdb
+C:\Users\mehem\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ref\Account.dll
